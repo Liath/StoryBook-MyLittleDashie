@@ -1,0 +1,10 @@
+## Interface: 60100 
+## Title: StoryBook - My Little Dashie
+## Notes: My Little Dashie by ROBCakeran53 for StoryBook!
+## Version: 0.01      
+## Author: Liath
+## X-Curse-Packaged-Version: r20120514055042
+## X-Curse-Project-Name: StoryBook - My Little Dashie
+## X-Curse-Project-ID: storybook-mylittledashie
+## X-Curse-Repository-ID: wow/storybook-mylittledashie/mainline
+StoryBook-MyLittleDashie.lua
